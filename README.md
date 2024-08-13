@@ -110,7 +110,5 @@ Para a realização da pesquisa foram coletados _pull requests_ de projetos _ope
 |nubank: workspaces         |https://github.com/nubank/workspaces                |44   |
 |nubank: state-flow         |https://github.com/nubank/state-flow                |144  |
 |                           |                                                    |     |
-|                           |                                                    |     |
-|                           |                                                    |     |
 |Total de PRs               |                                                    |53331|
 
